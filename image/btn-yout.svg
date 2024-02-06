@@ -1,0 +1,21 @@
+<svg width="326" height="203" viewBox="0 0 326 203" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 30.0144C0 13.4459 13.4315 0 30 0H296C312.569 0 326 13.4315 326 30V173C326 189.569 312.569 203 296 203H30C13.4315 203 0 189.554 0 172.986C0 120.749 0 82.2507 0 30.0144Z" fill="#FF3030"/>
+<mask id="mask0_14_34" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="326" height="203">
+<path d="M0 30C0 13.4315 13.4315 0 30 0H296C312.569 0 326 13.4315 326 30V173C326 189.569 312.569 203 296 203H30C13.4315 203 0 189.569 0 173V30Z" fill="#CB1818"/>
+</mask>
+<g mask="url(#mask0_14_34)">
+<path d="M136.629 61.8097C136.612 60.2506 138.306 59.2724 139.648 60.0668L211.877 102.834C213.194 103.614 213.183 105.522 211.858 106.287L140.551 147.456C139.227 148.221 137.568 147.276 137.552 145.746L136.629 61.8097Z" fill="white"/>
+<rect opacity="0.35" x="-93.877" y="-17" width="391.95" height="56.2932" transform="rotate(50 -93.877 -17)" fill="#5C5C5C"/>
+<rect opacity="0.35" x="253.051" y="-186" width="391.95" height="56.2932" transform="rotate(50 253.051 -186)" fill="#5C5C5C"/>
+<rect opacity="0.25" x="-105.877" y="5.15701" width="391.95" height="56.2932" transform="rotate(50 -105.877 5.15701)" fill="#5C5C5C"/>
+<rect opacity="0.25" x="236.123" y="-158.843" width="391.95" height="56.2932" transform="rotate(50 236.123 -158.843)" fill="#5C5C5C"/>
+<rect opacity="0.25" x="-123.877" y="23.157" width="391.95" height="56.2932" transform="rotate(50 -123.877 23.157)" fill="#5C5C5C"/>
+<rect opacity="0.25" x="218.123" y="-140.843" width="391.95" height="56.2932" transform="rotate(50 218.123 -140.843)" fill="#5C5C5C"/>
+</g>
+<mask id="mask1_14_34" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="136" y="59" width="77" height="89">
+<path d="M136.629 61.8097C136.612 60.2506 138.306 59.2724 139.648 60.0668L211.877 102.834C213.194 103.614 213.183 105.522 211.858 106.287L140.551 147.456C139.227 148.221 137.568 147.276 137.552 145.746L136.629 61.8097Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_14_34)">
+<rect opacity="0.35" x="21.0883" y="-94" width="391.95" height="56.2932" transform="rotate(36 21.0883 -94)" fill="#5C5C5C"/>
+</g>
+</svg>
