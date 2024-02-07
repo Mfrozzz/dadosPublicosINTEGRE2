@@ -105,7 +105,7 @@ $(document).ready(function () {
 
   checkbox.click(function () {                
       $.cookie(checkboxCookieName + '|' + $(this).attr('name'), $(this).prop('checked'));
-  }); console.log("saved")
+  }); //console.log("saved")
 });
 
 // $(document).ready(function () {
