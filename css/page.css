@@ -72,7 +72,17 @@ span{
     padding: 1rem;
 }
 
+.flex-parent{
+    display: flex;
+}
 
+.flex-item{
+    flex: 50%;
+}
+
+.flex-item p{
+    text-align: center;
+}
 
 [class*="col-"] {
     float:left;
