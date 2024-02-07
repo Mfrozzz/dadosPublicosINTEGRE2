@@ -119,6 +119,9 @@ span{
     list-style: none;
 }
 
+.ol-style-item{
+    line-height:1.5;text-align:justify;margin-left:7.5%;margin-right:5%;color: black;font-size: 20%;;
+}
 
 .citacao{border:2px solid var(--blue);margin-left:50%;padding:2%}
 .bordaFundo{border-bottom:5px solid var(--color-one)}
