@@ -114,7 +114,7 @@ span {
 }
 
 .fundo {
-    background-color: rgba(236,244,248,0.9);
+    background-color: rgba(236,244,248,0.91);
     /* background-color: #dfdfdf; */
     /* border: 3px solid var(--color-one) */
     border-radius: 30px;
@@ -287,6 +287,10 @@ span {
     color: black;
     font-size: 20%;
     ;
+}
+
+.tabelaT3{
+    width: 90%;
 }
 
 .citacao {
